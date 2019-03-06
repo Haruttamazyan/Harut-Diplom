@@ -1,0 +1,41 @@
+export const dbConnectionToken = 'DbConnectionToken';
+export const redisClientToken = 'RedisClientToken';
+export const rabbitmqConnection = 'RabbitmqConnectionToken';
+export const denovolabHttpToken = 'DenovolabHttpToken';
+export const SocketHttpToken = 'socketHttpToken';
+
+// Repositories
+export const userRepositoryToken = 'UserRepositoryToken';
+export const agentRepositoryToken = 'AgentRepositoryToken';
+export const didRepositoryToken = 'DidRepositoryToken';
+export const didGroupRepositoryToken = 'DidGroupRepositoryToken';
+export const userPermissionsRepositoryToken = 'UserPermissionsRepositoryToken';
+export const companyRepositoryToken = 'CompanyRepositoryToken';
+export const textTTSRepositoryToken = 'textTTSRepositoryToken';
+export const companyProfileRepositoryToken = 'CompanyProfileRepositoryToken';
+export const companyPaymentRepositoryToken = 'CompanyPaymentRepositoryToken';
+export const contactsListRepositoryToken = 'ContactsListRepositoryToken';
+export const contactsFileRepositoryToken = 'ContactsFileRepositoryToken';
+export const contactsInfoRepositoryToken = 'ContactsInfoRepositoryToken';
+export const contactRepositoryToken = 'ContactRepositoryToken';
+export const oCampaignRepositoryToken = 'OCampaignRepositoryToken';
+export const cdrRepositoryToken = 'CDRRepositoryToken';
+export const oCampaignConnectedCallsAndAgentsToken = 'OCampaignConnectedCallsAndAgentsToken';
+export const oCampaignConnectedCallsConfigToken = 'OCampaignConnectedCallsConfigToken';
+export const oCampaignConnectedSalesToken = 'OCampaignConnectedSalesToken';
+export const oCampaignConnectedMediaToken = 'OCampaignConnectedMediaToken';
+export const oCampaignConnectedDNCToken = 'OCampaignConnectedDNCToken';
+export const oCampaignAppointmentsConfigToken = 'OCampaignAppointmentsConfigToken';
+export const recordingRepositoryToken = 'RecordingRepositoryToken';
+export const playbackRepositoryToken = 'PlaybackRepositoryToken';
+export const imageRepositoryToken = 'ImageRepositoryToken';
+export const appointmentRepositoryToken = 'AppointmentRepositoryToken';
+export const resellerRepositoryToken = 'ResellerRepositoryToken';
+export const pricingRepositoryToken = 'PricingRepositoryToken';
+export const paymentRepositoryToken = 'PaymentRepositoryToken';
+export const questionRepositoryToken = 'QuestionRepositoryToken';
+export const answerRepositoryToken = 'AnswerRepositoryToken';
+export const BillingPlanRepositoryToken = 'BillingPlanRepositoryToken';
+export const BillingPlanSysRepositoryToken = 'BillingPlanSysRepositoryToken';
+export const Fed_DncRepositoryToken = 'FedDncRepositoryToken';
+

@@ -1,0 +1,61 @@
+{
+  "defaultSeverity": "warn",
+  "extends": "tslint:recommended",
+  "rulesDirectory": "./src",
+  "rules": {
+    "class-name": true,
+    "comment-format": [
+      true,
+      "check-space"
+    ],
+    "indent": [
+      true,
+      "spaces"
+    ],
+    "one-line": [
+      true,
+      "check-open-brace",
+      "check-whitespace"
+    ],
+    "max-classes-per-file": false,
+    "no-boolean-literal-compare": true,
+    "no-var-keyword": true,
+    "no-empty": false,
+    "variable-name": false,
+    "quotemark": [
+      true,
+      "single",
+      "avoid-escape"
+    ],
+    "semicolon": [
+      true,
+      "always"
+    ],
+    "space-before-function-paren": [
+      true,
+      "always"
+    ],
+    "whitespace": [
+        true,
+        "check-branch",
+        "check-decl",
+        "check-operator",
+        "check-module",
+        "check-separator",
+        "check-type"
+    ],
+    "no-trailing-whitespace": true,
+    "trailing-comma": false,
+    "prefer-const": true,
+    "jsdoc-format": true,
+    "interface-name": true,
+    "arrow-parens": false,
+    "no-unused-expression": true,
+    "object-literal-sort-keys": false,
+    "ordered-imports": false,
+    "no-unused-variable": true,
+    "eofline": true,
+    "forin": false,
+    "member-ordering": false
+  }
+}
